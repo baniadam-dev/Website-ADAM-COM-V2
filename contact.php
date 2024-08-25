@@ -249,7 +249,7 @@ if(isset($_POST["submit"])){
                     </div>
 
                     <iframe class="w-100 rounded"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d859.1754298030387!2d105.26172391100415!3d-5.443580809869118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e40dbcbd90248d9%3A0x6e32ab749381b6ea!2sBaniadam_House!5e0!3m2!1sid!2sid!4v1722107868511!5m2!1sid!2sid"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d649.2023675635239!2d105.26101590286953!3d-5.443460023739064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e40db6100c851a1%3A0x2dadfbf4b21364cc!2sADAM%20COM.!5e0!3m2!1sid!2sid!4v1724567620647!5m2!1sid!2sid"
                     frameborder="0" style="min-height: 300px; border:0;" allowfullscreen="" aria-hidden="false"
                     tabindex="0"></iframe>
                 </div>
