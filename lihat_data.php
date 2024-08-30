@@ -19,7 +19,7 @@ include "koneksi.php";
      <meta property="og:url" content="" />
      <meta property="og:title" content="ADAM COM. | Mobile & Desktop Service" />
      <meta property="og:description" content="Melayani service perangkat Mobile dan Desktop" />
-     <meta property="og:image" content="https://i.postimg.cc/wTRBVJTW/ADAM-COM-Thumbnail.png" />
+     <meta property="og:image" content="https://i.postimg.cc/PJ9svvr3/Screenshot-2024-08-31-001231-11zon.png" />
  
  
      <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png" />
