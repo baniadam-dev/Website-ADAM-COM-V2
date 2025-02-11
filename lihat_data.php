@@ -110,7 +110,7 @@ include "koneksi.php";
                         <a href="contact.php" class="nav-item nav-link">Kontak</a>
                     </div>
                     <div class="ms-auto d-none d-lg-block">
-                        <a href="https://www.adamdev.my.id" target="_blank" class="btn btn-primary rounded-pill py-2 px-3">Layanan Website</a>
+                        <a href="https://github.com/baniadam-dev" target="_blank" class="btn btn-primary rounded-pill py-2 px-3">Layanan Website</a>
                     </div>
                 </div>
             </nav>
@@ -120,6 +120,7 @@ include "koneksi.php";
 
     <div class="container mt-5">
         <h2 class="mb-4">Data pengguna yang memberi kritik dan saran kepada ADAM COM.</h2>
+        <div class="table-responsive">
         <table class="table table-bordered">
             <thead>
                 <tr>
@@ -149,6 +150,7 @@ include "koneksi.php";
                 ?>
             </tbody>
         </table>
+        </div>
     </div>
 
     <!-- Footer Start -->
@@ -198,10 +200,10 @@ include "koneksi.php";
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; Copyright 2024 <a class="fw-medium text-light" href="#"><img src="favicon/favicon-32x32.png" width="18px" height="18px"> ADAM COM.</a> | All Right Reserved.
+                    &copy; Copyright 2025 <a class="fw-medium text-light" href="#"><img src="favicon/favicon-32x32.png" width="18px" height="18px"> ADAM COM.</a> | All Right Reserved.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
-                    Site Created by <a class="fw-medium text-light" href="https://www.adamdev.my.id">ADAM DEV.</a>
+                    Site Created by <a class="fw-medium text-light" href="https://github.com/baniadam-dev">ADAM DEV.</a>
                 </div>
             </div>
         </div>
