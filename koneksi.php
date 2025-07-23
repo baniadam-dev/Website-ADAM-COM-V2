@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost"; // localhost atau nama server
 $username = "root"; // username database
-$password = ""; // password database
+$password = "1sampai10"; // password database
 $dbname = "adamcom_db"; // nama database
 
 // Membuat koneksi
